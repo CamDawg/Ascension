@@ -4,15 +4,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2018-06-17 22:22+0000\n"
-"Last-Translator: Henry Lavinder <henryklavinder@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-01-16 16:05+0000\n"
+"Last-Translator: ALIENQuake <alienquake@hotmail.com>\n"
+"Language-Team: German <https://tra.bgforge.net/projects/infinity-engine/"
+"ascension/de/>\n"
 "Language: german\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.17\n"
+"X-Generator: Weblate 3.1.1\n"
 
 #: ascension.tra:500
 msgid "Babau"
@@ -6414,10 +6415,8 @@ msgid "Tougher Yaga-Shura"
 msgstr ""
 
 #: setup.tra:3010
-#, fuzzy
-#| msgid "Ascension Core (requires ToB)"
 msgid "Ascension Portraits - Bodhi"
-msgstr "Ascension Core (ben”tigt TdB)"
+msgstr "Ascension Portraits - Bodhi"
 
 #: setup.tra:3020
 msgid "Ascension Portraits - Balthazar by Cuv ( Alternate Design )"

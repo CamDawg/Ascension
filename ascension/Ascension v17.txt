@@ -20,6 +20,12 @@ I also want to stress that all of the work done was geared towards producing a r
 CHANGELOG/CREDITS
 I felt it easiest to describe who did what and also display what's changed by using this method:
 
+16.01.2019 (CamDawg, whiteagnus)
+- Updated portrait handling
+- Latest DS from SCS now updated and working
+- Fix loading of wrong tra files
+- Fix @3010 reference in german setup.tra
+
 14.11.2018 (github collaborators)
 - russian, spanish, polish translations provided through BGforge weblate project
 - DS update and code clean up for EE game v2.5
